@@ -12,6 +12,9 @@ I’m currently working on Flutter.<br>Ask me about Flutter or any tech related 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shirsh94&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shirsh94&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# 📊 Stackoverflow Stats:
+<a href="https://stackoverflow.com/users/13098417/shirsh-shukla"><img src="https://stackoverflow.com/users/flair/13098417.png" width="208" height="58" alt="profile for shirsh shukla at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for shirsh shukla at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=shirsh94)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
