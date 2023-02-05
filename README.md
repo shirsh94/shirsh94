@@ -13,7 +13,11 @@ I’m currently working on Flutter.<br>Ask me about Flutter or any tech related 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shirsh94&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 📊 Stackoverflow Stats:
-<a href="https://stackoverflow.com/users/13098417/shirsh-shukla"><img src="https://stackoverflow.com/users/flair/13098417.png" width="208" height="58" alt="profile for shirsh shukla at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for shirsh shukla at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackexchange.com/users/14193141"><img src="https://stackexchange.com/users/flair/14193141.png" width="208" height="58" alt="profile for shirsh shukla on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for shirsh shukla on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
+#  Blogger, Checkout my recent Post on medium:
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shirsh94/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shirsh94/0" alt="Recent Article 0"> 
+
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=shirsh94)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
